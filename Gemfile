@@ -9,7 +9,7 @@ gem "awesome_print", git: 'https://github.com/awesome-print/awesome_print'
 group :development do
 gem "pry"
 end
-# 
+#
 # 'login@example.com:some-user-account/some-private-gem.git'
 #
 # /gem ['"]awesome_print['"], ?(git:|:git ?=>) ?['"]git@github\.com:awesome\-print\/awesome_print\.git['"]/).not_to eq(nil)
