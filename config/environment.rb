@@ -1,3 +1,3 @@
 require 'bundler/setup'
-require 'rspec'
+require "rspec"
 Bundler.require(:default, :development)
